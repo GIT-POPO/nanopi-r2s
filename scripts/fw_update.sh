@@ -2,7 +2,7 @@
 
 cd /root
 
-url=$1
+url=https://github.com/ardanzhu/Opwrt_Actions/releases/download/R2S/R2S-slim-2020-04-13.zip
 zipfile=update_rom.zip
 imgfile=rom.img
 lomntpoint=/mnt/img
